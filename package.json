@@ -1,0 +1,26 @@
+{
+  "name": "expressnode",
+  "version": "1.0.0",
+  "description": "express with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpunalkar/expressnode.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "Ganesh Punalkar <ganesh.punalkar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gpunalkar/expressnode/issues"
+  },
+  "homepage": "https://github.com/gpunalkar/expressnode#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
